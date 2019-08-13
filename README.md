@@ -1,5 +1,4 @@
-Sphinx Test Locale Override
-###########################
+# Sphinx Test Locale Override
 
 Test project to debug problem I have overriding certain Sphinx translations.
 
