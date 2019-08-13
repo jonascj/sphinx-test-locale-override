@@ -1,0 +1,9 @@
+#: sphinx/config.py:406
+#, python-format
+msgid "Fig. %s"
+msgstr "Foobar %s"
+
+#: sphinx/config.py:408
+#, python-format
+msgid "Listing %s"
+msgstr "Whatever %s"
